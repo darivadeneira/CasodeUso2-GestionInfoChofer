@@ -1,0 +1,132 @@
+[
+  {
+    "uri": "Feature/verChofer.feature",
+    "id": "visualizar-chofer",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "Visualizar Chofer",
+    "description": "",
+    "elements": [
+      {
+        "id": "visualizar-un-chofer",
+        "line": 2,
+        "type": "scenario",
+        "keyword": "Scenario",
+        "name": "Visualizar un chofer",
+        "description": "",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given",
+            "line": 3,
+            "name": "Se inicia el navegador",
+            "result": {
+              "status": "passed",
+              "duration": 1.8010334968566895
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "line": 4,
+            "name": "Entra a la seccion Chofer",
+            "result": {
+              "status": "passed",
+              "duration": 0.28904151916503906
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "line": 5,
+            "name": "Busca Chofer a Visualizar Pablo Miratos",
+            "result": {
+              "status": "passed",
+              "duration": 0.21301913261413574
+            }
+          }
+        ]
+      },
+      {
+        "id": "visualizar-un-chofer-en-viaje",
+        "line": 7,
+        "type": "scenario",
+        "keyword": "Scenario",
+        "name": "Visualizar un chofer en viaje",
+        "description": "",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given",
+            "line": 8,
+            "name": "Se inicia el navegador",
+            "result": {
+              "status": "passed",
+              "duration": 1.4443001747131348
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "line": 9,
+            "name": "Entra a la seccion Chofer",
+            "result": {
+              "status": "passed",
+              "duration": 0.6386735439300537
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "line": 10,
+            "name": "Busca Chofer a Visualizar Alexander Qui\u00f1ones",
+            "result": {
+              "status": "passed",
+              "duration": 0.21898818016052246
+            }
+          }
+        ]
+      },
+      {
+        "id": "visualizar-un-chofer-inexistente",
+        "line": 12,
+        "type": "scenario",
+        "keyword": "Scenario",
+        "name": "Visualizar un chofer inexistente",
+        "description": "",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given",
+            "line": 13,
+            "name": "Se inicia el navegador",
+            "result": {
+              "status": "passed",
+              "duration": 1.5550825595855713
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When",
+            "line": 14,
+            "name": "Entra a la seccion Chofer",
+            "result": {
+              "status": "passed",
+              "duration": 0.5952198505401611
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And",
+            "line": 15,
+            "name": "Busca Chofer a Visualizar Marlon Vera",
+            "result": {
+              "status": "passed",
+              "duration": 0.18159985542297363
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
